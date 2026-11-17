@@ -1,0 +1,29 @@
+[
+    {
+        "student_id": 105,
+        "name": "Aarav Patel",
+        "course": "BCA",
+        "department": "Computer Applications",
+        "semester": 4,
+        "marks": 88,
+        "cgpa": 8.9
+    },
+    {
+        "student_id": 108,
+        "name": "aditya",
+        "course": "MCA",
+        "department": "computer science",
+        "semester": 4,
+        "marks": 70.0,
+        "cgpa": 7.0
+    },
+    {
+        "student_id": 110,
+        "name": "Sneha Reddy",
+        "course": "MCA",
+        "department": "Computer Science",
+        "semester": 2,
+        "marks": 91,
+        "cgpa": 9.2
+    }
+]
